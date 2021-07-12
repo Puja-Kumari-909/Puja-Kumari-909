@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/sahil-75/random-assets/master/wave.gif" width="25px">, I'm Puja 
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Puja 
 
 - 🌱 I’m currently learning Android App Development
 - 👯 I’m looking to collaborate on Android App Projects
