@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Android App Development
 - 👯 I’m looking to collaborate on Android App Projects
-- 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumari-puja99/)
 - 😄 Pronouns: She/Her
 
