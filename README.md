@@ -1,5 +1,5 @@
 
-<h4><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> </h4>
+<h4><img src="https://camo.githubusercontent.com/f753f9ba5f9bf387655f29e59de128b7ceba29a6a5a59113c789ccd4ca944d32/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f757365722f70726f66696c655f696d6167652f33313034372f61663135336364362d393939342d346136382d383366342d3864646633653133663062662e6a7067" alt="" width="150"> </h4>
 <h1 align="center">Hi 👋, I'm Puja</h1>
 <h3 align="center">A final year Student of Computer Science and a Explorer always inclined towards learning with a positive mindset.
 </h3>
