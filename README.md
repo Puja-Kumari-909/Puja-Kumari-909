@@ -13,7 +13,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Full Stack Web Development,** **UI/UX** and I am also intersted in learning about **BlockChain**. 
+- 🌱 I’m currently learning **Full Stack Web Development**. 
 
 - 📫 How to reach me **pooja9.ps15@gmail.com**
 
