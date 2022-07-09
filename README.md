@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puja</h1>
-<h3 align="center">A final year Student of Computer Science and a Explorer always inclined towards learning with a positive mindset.
+<h3 align="center">Explorer, always inclined towards learning with a positive mindset.
 </h3>
 <a href="https://www.linkedin.com/in/kumari-puja99/">
   <img align="left" alt="Puja's's LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
